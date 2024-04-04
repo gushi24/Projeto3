@@ -1,0 +1,14 @@
+#calc{
+    background-color: rgb(202, 107, 147);
+    margin-left: 120px;
+}
+#calc:hover{
+    background-color: rgb(136, 54, 161);
+    color: rgb(202, 107, 147);
+    cursor: pointer;
+}
+#resultado{
+    font-size: 30px;
+    color: blue;
+    margin-left: 135px;
+}
